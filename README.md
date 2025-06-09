@@ -1,6 +1,5 @@
 # 💫 About Me:
-About Me :<br>📡 I’m currently working on Myan-Type, a typing practice app inspired by MonkeyType.<br>🧑‍🤝‍🧑 I’m looking to collaborate on front-end projects or anything that helps improve typing or language skills.<br>🤝 I’m looking for help with building responsive UIs and optimizing React apps.<br>🌱 I’m currently learning React.js.<br>💬 Ask me about typing speed improvement or building with JavaScript.<br>⚡ Fun fact: I built my first typing game because I wanted to beat my own WPM record!<br><br>
-
+About Me :<br>📡 I’m currently working on Myan-Type, a typing practice app inspired by MonkeyType.<br>🧑‍🤝‍🧑 I’m looking to collaborate on front-end projects or anything that helps improve typing or language skills.<br>🤝 I’m looking for help with building responsive UIs and optimizing React apps.<br>🌱 I’m currently learning React.js.<br>💬 Ask me about typing speed improvement or building with JavaScript.<br>⚡ 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yethihahtun1494@gmail.com) 
