@@ -1,13 +1,3 @@
-# 💫 About Me
-
-Hi, I'm Ye Thiha!  
-📡 I'm currently building **Myan-Type**, a typing practice app inspired by MonkeyType.  
-🧑‍🤝‍🧑 I'm open to collaborating on **front-end projects** or anything that helps improve **typing or language skills**.  
-🤝 I'm seeking support in crafting **responsive UIs** and **optimizing React apps**.  
-🌱 Currently diving deeper into **React.js**.  
-💬 Ask me anything about **typing speed improvement** or **building with JavaScript**.  
-⚡ Fun fact: I enjoy coding things that make learning more fun and interactive!
-
 ---
 
 ## 🌐 Connect with Me
