@@ -1,5 +1,24 @@
+# 👋 Hi there! I'm a Full-Stack Developer
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+learning+new+things;Building+amazing+projects!" alt="Typing SVG" />
+</div>
+
+## 🐉 3D Dragon Guardian
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating dots animation" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+    <img alt="3D Dragon Animation" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding Dragon" width="300">
 </div>
 
 ## 💻 Tech Stack
@@ -77,9 +96,18 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ye-Thiha84&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
-## 🔥 Contribution Graph
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ye-Thiha84&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 🔥 Dragon's Contribution Lair
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Fire Dragon" width="200">
 </div>
 
 ## 🎯 Current Focus
