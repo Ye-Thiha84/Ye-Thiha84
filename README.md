@@ -1,25 +1,7 @@
 # 👋 Hi there! I'm a Full-Stack Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+learning+new+things;Building+amazing+projects!" alt="Typing SVG" />
-</div>
-
-## 🚀 3D Tech Universe
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ## 💻 Tech Stack
@@ -89,7 +71,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ye-Thiha84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ye-Thiha84&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Thiha84&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
@@ -104,7 +86,7 @@
 
 ## 🔥 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ye-Thiha84&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 Current Focus
