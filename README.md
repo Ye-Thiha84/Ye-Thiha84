@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lottie.host/9042359b-2451-4bdc-9189-3d4dd9ddc162/YQjewa1dWp.lottie" alt="Developer Animation" width="500" />
+  <img src="https://lottie.host/embed/9042359b-2451-4bdc-9189-3d4dd9ddc162/YQjewa1dWp.lottie" width="500" />
 </div>
 
 <div align="center">
