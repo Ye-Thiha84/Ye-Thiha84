@@ -1,10 +1,5 @@
 <div align="center">
-  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-  <dotlottie-player src="https://lottie.host/9042359b-2451-4bdc-9189-3d4dd9ddc162/YQjewa1dWp.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+learning+new+things;Building+amazing+projects!&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+learning+new+things;Building+amazing+projects!" alt="Typing SVG" />
 </div>
 
 ## 💻 Tech Stack
