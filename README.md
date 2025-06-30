@@ -77,7 +77,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Thiha84&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
-## 🌟 3D Animated Showcase
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="100" height="100" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="3D Code Animation" width="400" />
