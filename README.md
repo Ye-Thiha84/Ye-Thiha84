@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://lottie.host/embed/9042359b-2451-4bdc-9189-3d4dd9ddc162/YQjewa1dWp.lottie" width="500" />
+  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+  <dotlottie-player src="https://lottie.host/9042359b-2451-4bdc-9189-3d4dd9ddc162/YQjewa1dWp.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 </div>
 
 <div align="center">
