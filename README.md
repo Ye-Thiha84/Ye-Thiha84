@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json" alt="Developer Animation" width="500" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+learning+new+things;Building+amazing+projects!&background=000000" alt="Typing SVG" />
 </div>
 
@@ -77,10 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Thiha84&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="3D Coding Animation" width="500" />
-</div>
-
 ## 🎯 Current Focus
 - 🔭 Working on **Full-Stack Web Applications**
 - 🌱 Learning **Advanced React Patterns & System Design**
@@ -103,10 +103,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="3D Matrix Animation" width="400" />
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous" alt="Dev Quote"/>
